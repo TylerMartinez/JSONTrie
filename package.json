@@ -1,0 +1,27 @@
+{
+  "name": "jsontrie-cli",
+  "version": "1.0.0",
+  "description": "A cli tool to compile a trie JSON object from an array of JSON objects.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trie",
+    "json",
+    "cli"
+  ],
+  "author": {
+    "name": "Tyler Martinez",
+    "email": "tyler.martinez.prof@gmail.com",
+    "url": "https://tylermartinez.github.io/"
+  },
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TylerMartinez/JSONTrie"
+  },
+  "bin": {
+    "jsontrie": "./bin/index.js"
+  }
+}
