@@ -11,4 +11,4 @@ An array of json objects that contain two properties, one being the key to trave
 A trie in the form of a json object. An example output is available in the repo.
 
 # Usage
-jsontrie <inputFile> <outputFile> <keyName> <valueName>
+jsontrie `<inputFile> <outputFile> <keyName> <valueName>`
